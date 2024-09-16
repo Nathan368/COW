@@ -1,8 +1,7 @@
-# ChinesePUA 插件
+# IHA 插件
 
-investment hotspot analysis 是一个为 chatgpt-on-wechat 设计的插件,灵感来源于李继刚和云中江树的创意。它能够为中文词语提供幽默而富有创意的新解释,并生成一张方便分享的文字卡片。此外，它还可以生成精美的社交名片。
+investment hotspot analysis 是一个为 chatgpt-on-wechat 设计的插件。它能够为热点新闻生成投资分析,并生成一张方便分享的文字卡片。此外，它还可以生成精美的社交名片。
 
-特别感谢云中江树大神收录 [飞书文档: 玩转"汉语新解"？我用通义AI直出爆款文字卡片](https://langgptai.feishu.cn/wiki/WKaEwX5LMirfJlkenf6cKGDGnJg)
 
 ## 功能
 
